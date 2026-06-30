@@ -1,4 +1,4 @@
-# Vidflow
+# VidFlowGen
 
 <p align="center">
   <img src="asset/Image%20to%20Text.jpeg" alt="Image to Text" width="280"/>

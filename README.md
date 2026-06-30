@@ -1,6 +1,6 @@
 # Vidflow
 
-![Image to Text](asset/Image%20to%20Text.jpeg)
+<img src="asset/Image%20to%20Text.jpeg" alt="Image to Text" width="300"/>
 
 AI-powered video generation app built with Flutter. Users describe a scene in a prompt, an AI model generates a short video, and the result is stored for **3 days** with download support.
 

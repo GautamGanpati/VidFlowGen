@@ -18,7 +18,7 @@ AI-powered video generation app built with Flutter. Users describe a scene in a 
 
 | Layer | Choice |
 |-------|--------|
-| UI | Flutter (Material 3, dark Snapchat-inspired theme) |
+| UI | Flutter (Material 3, dark theme) |
 | State | Riverpod |
 | Routing | go_router |
 | Backend | Supabase (Postgres, Storage, Edge Functions) |
